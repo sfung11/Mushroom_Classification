@@ -23,4 +23,3 @@ The model was evaluated by cross validation using accuracy as well as AUC as met
 
 Further Improvement:
 Since the priority metric was to minimize false negatives, the next step would be to take the mushrooms misclassified as false positives and run those through a second round of classification. This will ensure that the mushrooms that are safe to eat are labeled appropriately. 
-# Mushroom_Classification
